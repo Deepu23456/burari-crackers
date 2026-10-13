@@ -12,6 +12,7 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.3.3",
     "@tsparticles/engine": "^4.4.0",
+    "@tsparticles/plugin-interactivity": "^4.4.0",
     "@tsparticles/preset-fireworks": "^4.4.0",
     "@tsparticles/react": "^4.4.0",
     "framer-motion": "^13.4.2",
