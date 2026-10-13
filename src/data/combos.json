@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Family Combo Pack",
+    "price": 501,
+    "image": "/images/combos/combo1.jpg",
+    "items": [
+      "Murga Chhaap Bomb x2",
+      "Pop Pop x5",
+      "10 No. Fuljhari x5",
+      "Bidi Bomb x2",
+      "Big Chakkar x1",
+      "Koyal Bomb x1",
+      "Hunter x1",
+      "2 Sound Bomb x1"
+    ]
+  },
+  {
+    "name": "Celebration Combo Pack",
+    "price": 751,
+    "image": "/images/combos/combo2.png",
+    "items": [
+      "Khushi Anar x1",
+      "Bijli Bomb (100 pcs) x1",
+      "Rocket Packet x1",
+      "Big Chakkar x1",
+      "Murga Chhaap Bomb x2",
+      "Spiderman Bomb x1",
+      "18 No. Fuljhari x1"
+    ]
+  },
+  {
+    "name": "Mega Diwali Combo Pack",
+    "price": 1100,
+    "image": "/images/combos/combo3.png",
+    "items": [
+      "35 No. Fuljhari x1",
+      "Hunter x1",
+      "Khushi Anar x1",
+      "Bijli Bomb (100 pcs) x1",
+      "2 Sound Bomb x1",
+      "Chakkar Big x1",
+      "Pop Pop x5",
+      "Bidi Bomb x2",
+      "Murga Chhaap Bomb x2",
+      "Spiderman Bomb x1",
+      "Rocket x1"
+    ]
+  }
+]

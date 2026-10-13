@@ -1,0 +1,603 @@
+[
+    {
+        
+        "category": "fuljhari",
+        "categoryLabel": "Fuljhari",
+        "name": "Coloured Sparklers (18 no.)",
+        "price": 100,
+        "image": "/images/fuljhari1.png"
+    },
+    {
+        
+        "category": "fuljhari",
+        "categoryLabel": "Fuljhari",
+        "name": "Coloured Sparklers (35 no.)",
+        "price": 100,
+        "image": "/images/fuljhari2.png"
+    },
+    {
+        
+        "category": "fuljhari",
+        "categoryLabel": "Fuljhari",
+        "name": "Coloured Sparklers (50 no.)",
+        "price": 179,
+        "image": "/images/fuljhari3.png"
+    },
+    {
+        
+        "category": "fuljhari",
+        "categoryLabel": "Fuljhari",
+        "name": "Jil Jil Hunter",
+        "price": 59,
+        "image": "/images/fuljhari4.png"
+    },
+    {
+        
+        "category": "fuljhari",
+        "categoryLabel": "Fuljhari",
+        "name": "Green or Red Sparklers (18 no.)",
+        "price": 100,
+        "image": "/images/fuljhari5.png"
+    },
+    {
+        
+        "category": "fuljhari",
+        "categoryLabel": "Fuljhari",
+        "name": "Premium R Sparklers (40 no.)",
+        "price": 250,
+        "image": "/images/fuljhari6.png"
+    },
+    {
+        
+        "category": "fuljhari",
+        "categoryLabel": "Fuljhari",
+        "name": "Coloured Sparklers (10 no.)",
+        "price": 50,
+        "image": "/images/fuljhari7.png"
+    },
+    {
+        
+        "category": "fuljhari",
+        "categoryLabel": "Fuljhari",
+        "name": "Coloured Sparklers (75 no.)",
+        "price": 300,
+        "image": "/images/fuljhari8.png"
+    },
+    {
+        
+        "category": "fuljhari",
+        "categoryLabel": "Fuljhari",
+        "name": "Fire Pencil",
+        "price": 150,
+        "image": "/images/fuljhari9.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "SpiderMan Crackers",
+        "price": 55,
+        "image": "/images/bomb1.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Bullet Big Ok",
+        "price": 100,
+        "image": "/images/bomb2.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Hulk Stripped Cracker",
+        "price": 90,
+        "image": "/images/bomb3.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Bijli Cracker",
+        "price": 45,
+        "image": "/images/bomb4.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "2 sound bomb",
+        "price": 59,
+        "image": "/images/bomb5.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Classic Green Bomb",
+        "price": 299,
+        "image": "/images/bomb6.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Nazi Green Bomb",
+        "price": 320,
+        "image": "/images/bomb7.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Linga (1000 ladi)",
+        "price": 699,
+        "image": "/images/bomb8.png"
+    },
+    {
+        
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Peacock (2000 ladi)",
+        "price": 1399,
+        "image": "/images/bomb9.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Bomb (5000 ladi)",
+        "price": 3100,
+        "image": "/images/bomb10.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Bomb 4no.",
+        "price": 550,
+        "image": "/images/bomb11.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Bomb 6no.",
+        "price": 750,
+        "image": "/images/bomb12.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Koyal Bomb",
+        "price": 40,
+        "image": "/images/bomb13.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Ravan Bomb",
+        "price": 300,
+        "image": "/images/bomb14.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Parmanu Bomb",
+        "price": 200,
+        "image": "/images/bomb15.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Hydro Bomb Green",
+        "price": 149,
+        "image": "/images/bomb16.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Mini Bullet Bomb",
+        "price": 70,
+        "image": "/images/bomb17.png"
+    },
+    {
+        
+        "category": "chakri",
+        "categoryLabel": "Chakri",
+        "name": "Ground Chakker Special (10pcs)",
+        "price": 299,
+        "image": "/images/chakri1.png"
+    },
+    {
+        
+        "category": "chakri",
+        "categoryLabel": "Chakri",
+        "name": "Deluxe Zamin Chakkar (10pcs)",
+        "price": 450,
+        "image": "/images/chakri2.png"
+    },
+    {
+        
+        "category": "chakri",
+        "categoryLabel": "Chakri",
+        "name": "Zameen Chakkar Deluxe (10pcs)",
+        "price": 399,
+        "image": "/images/chakri3.png"
+    },
+    {
+        
+        "category": "chakri",
+        "categoryLabel": "Chakri",
+        "name": "Big Chakkar (10pcs)",
+        "price": 99,
+        "image": "/images/chakri4.png"
+    },
+    {
+        
+        "category": "chakri",
+        "categoryLabel": "Chakri",
+        "name": "Special Zameen Chakkar (10pcs)",
+        "price": 250,
+        "image": "/images/chakri5.png"
+    },
+    {
+        
+        "category": "chakri",
+        "categoryLabel": "Chakri",
+        "name": "Spinner Special (10pcs)",
+        "price": 350,
+        "image": "/images/chakri6.png"
+    },
+    {
+        
+        "category": "chakri",
+        "categoryLabel": "Chakri",
+        "name": "Chakkar Big (25pcs)",
+        "price": 225,
+        "image": "/images/chakri7.png"
+    },
+    {
+        
+        "category": "anar",
+        "categoryLabel": "Anar",
+        "name": "Flower Pots Special",
+        "price": 250,
+        "image": "/images/anar1.png"
+    },
+    {
+        
+        "category": "anar",
+        "categoryLabel": "Anar",
+        "name": "Jasmine Flower Pots (5pcs)",
+        "price": 499,
+        "image": "/images/anar2.png"
+    },
+    {
+        
+        "category": "anar",
+        "categoryLabel": "Anar",
+        "name": "Deluxe Flower Pots (4pcs)",
+        "price": 799,
+        "image": "/images/anar3.png"
+    },
+    {
+        
+        "category": "anar",
+        "categoryLabel": "Anar",
+        "name": "2 in 1 Flower Pots (10pcs)",
+        "price": 549,
+        "image": "/images/anar4.png"
+    },
+    {
+        
+        "category": "anar",
+        "categoryLabel": "Anar",
+        "name": "Color Koti Flower Pots",
+        "price": 399,
+        "image": "/images/anar5.png"
+    },
+    {
+        
+        "category": "anar",
+        "categoryLabel": "Anar",
+        "name": "Ashoka Flower Pots",
+        "price": 299,
+        "image": "/images/anar6.png"
+    },
+    {
+        
+        "category": "anar",
+        "categoryLabel": "Anar",
+        "name": "Special Flower Pots",
+        "price": 299,
+        "image": "/images/anar7.png"
+    },
+    {
+        
+        "category": "anar",
+        "categoryLabel": "Anar",
+        "name": "Giant Flower Pots",
+        "price": 499,
+        "image": "/images/anar8.png"
+    },
+    {
+        
+        "category": "anar",
+        "categoryLabel": "Anar",
+        "name": "Big Flower Pots",
+        "price": 169,
+        "image": "/images/anar9.png"
+    },
+    {
+        
+        "category": "anar",
+        "categoryLabel": "Anar",
+        "name": "Ganga Jamuna Flower Pots",
+        "price": 149,
+        "image": "/images/anar10.png"
+    },
+    {
+        
+        "category": "anar",
+        "categoryLabel": "Anar",
+        "name": "Flower Pots Ashoka",
+        "price": 349,
+        "image": "/images/anar11.png"
+    },
+    {
+        
+        "category": "anar",
+        "categoryLabel": "Anar",
+        "name": "Koko Flower Pots",
+        "price": 300,
+        "image": "/images/anar12.png"
+    },
+    {
+        
+        "category": "rockets",
+        "categoryLabel": "Rockets",
+        "name": "Rocket Bomb1",
+        "price": 149,
+        "image": "/images/rocket1.png"
+    },
+    {
+        
+        "category": "rockets",
+        "categoryLabel": "Rockets",
+        "name": "Whistling Rocket",
+        "price": 399,
+        "image": "/images/rocket2.png"
+    },
+    {
+        
+        "category": "rockets",
+        "categoryLabel": "Rockets",
+        "name": "Lunik Express Rocket",
+        "price": 299,
+        "image": "/images/rocket3.png"
+    },
+    {
+        
+        "category": "rockets",
+        "categoryLabel": "Rockets",
+        "name": "Seeti Maar Rocket",
+        "price": 360,
+        "image": "/images/rocket4.png"
+    },
+    {
+        
+        "category": "rockets",
+        "categoryLabel": "Rockets",
+        "name": "Rocket Bomb2",
+        "price": 199,
+        "image": "/images/rocket5.png"
+    },
+    {
+        
+        "category": "rockets",
+        "categoryLabel": "Rockets",
+        "name": "Rocket Bomb3",
+        "price": 199,
+        "image": "/images/rocket6.png"
+    },
+    {
+        
+        "category": "skyShot",
+        "categoryLabel": "Sky Shot",
+        "name": "Luca Sky Shot (Panta)",
+        "price": 300,
+        "image": "/images/skyshot1.png"
+    },
+    {
+        
+        "category": "skyShot",
+        "categoryLabel": "Sky Shot",
+        "name": "Delight 12 Shots",
+        "price": 299,
+        "image": "/images/skyshot2.png"
+    },
+    {
+        
+        "category": "skyShot",
+        "categoryLabel": "Sky Shot",
+        "name": "Galaxy Crystal 12 Shots",
+        "price": 499,
+        "image": "/images/skyshot3.png"
+    },
+    {
+        
+        "category": "skyShot",
+        "categoryLabel": "Sky Shot",
+        "name": "Lattu Sky Shot",
+        "price": 549,
+        "image": "/images/skyshot4.png"
+    },
+    {
+        
+        "category": "skyShot",
+        "categoryLabel": "Sky Shot",
+        "name": "Multicolor 30 Shots",
+        "price": 999,
+        "image": "/images/skyshot5.png"
+    },
+    {
+        
+        "category": "skyShot",
+        "categoryLabel": "Sky Shot",
+        "name": "100 Pipers Gold Shots",
+        "price": 649,
+        "image": "/images/skyshot6.png"
+    },
+    {
+        
+        "category": "skyShot",
+        "categoryLabel": "Sky Shot",
+        "name": "Black Dog White Stars",
+        "price": "649",
+        "image": "/images/skyshot7.png"
+    },
+    {
+        
+        "category": "skyShot",
+        "categoryLabel": "Sky Shot",
+        "name": "Smirnoff Shots",
+        "price": "649",
+        "image": "/images/skyshot8.png"
+    },
+    {
+        
+        "category": "skyShot",
+        "categoryLabel": "Sky Shot",
+        "name": "Rise Shots (7 shots)",
+        "price": 1399,
+        "image": "/images/skyshot9.png"
+    },
+    {
+        
+        "category": "skyShot",
+        "categoryLabel": "Sky Shot",
+        "name": "Mottu Pattlu 12 Shots",
+        "price": 899,
+        "image": "/images/skyshot10.png"
+    },
+    {
+        
+        "category": "skyShot",
+        "categoryLabel": "Sky Shot",
+        "name": "Fiz Gig Shots (7 shots)",
+        "price": "1399",
+        "image": "/images/skyshot11.png"
+    },
+    {
+        
+        "category": "kids",
+        "categoryLabel": "Kids",
+        "name": "Sky Scrapper (Helicopter)",
+        "price": "250",
+        "image": "/images/kids1.png"
+    },
+    {
+        
+        "category": "kids",
+        "categoryLabel": "Kids",
+        "name": "Murga Chaap Bomb",
+        "price": "30",
+        "image": "/images/kids2.png"
+    },
+    {
+        
+        "category": "kids",
+        "categoryLabel": "Kids",
+        "name": "Color Changing Butterfly",
+        "price": "200",
+        "image": "/images/kids3.png"
+    },
+    {
+        
+        "category": "kids",
+        "categoryLabel": "Kids",
+        "name": "Dragon Fight",
+        "price": "100",
+        "image": "/images/kids4.png"
+    },
+    {
+        
+        "category": "kids",
+        "categoryLabel": "Kids",
+        "name": "Magic Pop Pop",
+        "price": "10",
+        "image": "/images/kids5.png"
+    },
+    {
+        
+        "category": "kids",
+        "categoryLabel": "Kids",
+        "name": "Bidi Bomb",
+        "price": "220",
+        "image": "/images/kids6.png"
+    },
+    {
+        
+        "category": "kids",
+        "categoryLabel": "Kids",
+        "name": "Fire Pencil",
+        "price": 150,
+        "image": "/images/fuljhari9.png"
+    },
+    {
+        
+        "category": "kids",
+        "categoryLabel": "Kids",
+        "name": "Jil Jil Hunter",
+        "price": 59,
+        "image": "/images/fuljhari4.png"
+    },
+    {
+        
+        "category": "kids",
+        "categoryLabel": "Kids",
+        "name": "Coloured Sparklers (18 no.)",
+        "price": 100,
+        "image": "/images/fuljhari1.png"
+    },
+    {
+        
+        "category": "kids",
+        "categoryLabel": "Kids",
+        "name": "Mini Bullet Bomb",
+        "price": 70,
+        "image": "/images/bomb17.png"
+    },
+    {
+        
+        "category": "kids",
+        "categoryLabel": "Kids",
+        "name": "Chakkar Big (25pcs)",
+        "price": 225,
+        "image": "/images/chakri7.png"
+    },
+    {
+        
+        "category": "kids",
+        "categoryLabel": "Kids",
+        "name": "Ganga Jamuna Flower Pots",
+        "price": 149,
+        "image": "/images/anar10.png"
+    },
+    {
+        
+        "category": "kids",
+        "categoryLabel": "Kids",
+        "name": "Rocket Bomb3",
+        "price": 199,
+        "image": "/images/rocket6.png"
+    }  
+]
