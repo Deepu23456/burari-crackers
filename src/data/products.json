@@ -149,7 +149,7 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "Bomb (5000 ladi)",
-        "price": 3100,
+        "price": 2600,
         "image": "/images/bomb10.png"
     },
     {
@@ -221,7 +221,7 @@
         "category": "chakri",
         "categoryLabel": "Chakri",
         "name": "Deluxe Zamin Chakkar (10pcs)",
-        "price": 450,
+        "price": 350,
         "image": "/images/chakri2.png"
     },
     {
@@ -229,7 +229,7 @@
         "category": "chakri",
         "categoryLabel": "Chakri",
         "name": "Zameen Chakkar Deluxe (10pcs)",
-        "price": 399,
+        "price": 350,
         "image": "/images/chakri3.png"
     },
     {
@@ -269,7 +269,7 @@
         "category": "anar",
         "categoryLabel": "Anar",
         "name": "Flower Pots Special",
-        "price": 250,
+        "price": 200,
         "image": "/images/anar1.png"
     },
     {
@@ -309,7 +309,7 @@
         "category": "anar",
         "categoryLabel": "Anar",
         "name": "Ashoka Flower Pots",
-        "price": 299,
+        "price": 300,
         "image": "/images/anar6.png"
     },
     {
@@ -317,7 +317,7 @@
         "category": "anar",
         "categoryLabel": "Anar",
         "name": "Special Flower Pots",
-        "price": 299,
+        "price": 200,
         "image": "/images/anar7.png"
     },
     {
@@ -325,7 +325,7 @@
         "category": "anar",
         "categoryLabel": "Anar",
         "name": "Giant Flower Pots",
-        "price": 499,
+        "price": 450,
         "image": "/images/anar8.png"
     },
     {
@@ -349,7 +349,7 @@
         "category": "anar",
         "categoryLabel": "Anar",
         "name": "Flower Pots Ashoka",
-        "price": 349,
+        "price": 250,
         "image": "/images/anar11.png"
     },
     {
@@ -373,7 +373,7 @@
         "category": "rockets",
         "categoryLabel": "Rockets",
         "name": "Whistling Rocket",
-        "price": 399,
+        "price": 350,
         "image": "/images/rocket2.png"
     },
     {
@@ -405,7 +405,7 @@
         "category": "rockets",
         "categoryLabel": "Rockets",
         "name": "Rocket Bomb3",
-        "price": 199,
+        "price": 150,
         "image": "/images/rocket6.png"
     },
     {
@@ -461,7 +461,7 @@
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
         "name": "Black Dog White Stars",
-        "price": "649",
+        "price": "600",
         "image": "/images/skyshot7.png"
     },
     {
@@ -469,7 +469,7 @@
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
         "name": "Smirnoff Shots",
-        "price": "649",
+        "price": "599",
         "image": "/images/skyshot8.png"
     },
     {
@@ -597,7 +597,7 @@
         "category": "kids",
         "categoryLabel": "Kids",
         "name": "Rocket Bomb3",
-        "price": 199,
+        "price": 150,
         "image": "/images/rocket6.png"
     }  
 ]
