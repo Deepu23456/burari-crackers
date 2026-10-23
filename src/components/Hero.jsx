@@ -40,7 +40,7 @@ function Hero() {
             <div className="absolute top-10 left-10 w-72 h-72 bg-yellow-500/30 rounded-full blur-3xl"></div>
             <div className="absolute bottom-10 right-10 w-72 h-72 bg-orange-600/30 rounded-full blur-3xl"></div>
 
-            {/* <FireworksBackground /> */}
+            <FireworksBackground />
 
 
 
