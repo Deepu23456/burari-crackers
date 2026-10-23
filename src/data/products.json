@@ -28,7 +28,7 @@
         "category": "fuljhari",
         "categoryLabel": "Fuljhari",
         "name": "Jil Jil Hunter",
-        "price": 59,
+        "price": 95,
         "image": "/images/fuljhari4.png"
     },
     {
@@ -60,7 +60,7 @@
         "category": "fuljhari",
         "categoryLabel": "Fuljhari",
         "name": "Coloured Sparklers (10 no.)",
-        "price": 50,
+        "price": 40,
         "image": "/images/fuljhari7.png"
     },
     {
@@ -164,7 +164,7 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "SpiderMan Crackers",
-        "price": 55,
+        "price": 50,
         "image": "/images/bomb1.png"
     },
     {
@@ -172,14 +172,14 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "Bullet Big Ok",
-        "price": 100,
+        "price": 90,
         "image": "/images/bomb2.png"
     },
     {
         
         "category": "bombs",
         "categoryLabel": "Bombs",
-        "name": "Hulk Stripped Cracker",
+        "name": "Hulk Stripped Cracker (Bijli 100pcs)",
         "price": 90,
         "image": "/images/bomb3.png"
     },
@@ -196,7 +196,7 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "2 sound bomb",
-        "price": 59,
+        "price": 50,
         "image": "/images/bomb5.png"
     },
     {
@@ -220,7 +220,7 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "Linga (1000 ladi)",
-        "price": 699,
+        "price": 650,
         "image": "/images/bomb8.png"
     },
     {
@@ -229,7 +229,7 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "Peacock (2000 ladi)",
-        "price": 1399,
+        "price": 1200,
         "image": "/images/bomb9.png"
     },
     {
@@ -245,7 +245,7 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "Bomb 4no.",
-        "price": 550,
+        "price": 450,
         "image": "/images/bomb11.png"
     },
     {
@@ -253,7 +253,7 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "Bomb 6no.",
-        "price": 750,
+        "price": 650,
         "image": "/images/bomb12.png"
     },
     {
@@ -277,7 +277,7 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "Parmanu Bomb",
-        "price": 200,
+        "price": 180,
         "image": "/images/bomb15.png"
     },
     {
@@ -293,7 +293,7 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "Mini Bullet Bomb",
-        "price": 70,
+        "price": 65,
         "image": "/images/bomb17.png"
     },
     {
@@ -381,7 +381,7 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "Excel Cell Bomb",
-        "price": 230,
+        "price": 250,
         "image": "/images/bomb28.png"
     },
     {
@@ -461,7 +461,7 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "Mini Bullet Flash",
-        "price": 70,
+        "price": 60,
         "image": "/images/bomb38.png"
     },
     {
@@ -484,8 +484,8 @@
         
         "category": "bombs",
         "categoryLabel": "Bombs",
-        "name": "Big Bullet",
-        "price": 100,
+        "name": "Excel Big Bullet",
+        "price": 120,
         "image": "/images/bomb41.png"
     },
     {
@@ -501,7 +501,7 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "Hydro Bomb",
-        "price": 100,
+        "price": 110,
         "image": "/images/bomb43.png"
     },
     {
@@ -522,6 +522,14 @@
     },
     {
         
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "DLX Bullet",
+        "price": 180,
+        "image": "/images/bomb46.png"
+    },
+    {
+        
         "category": "chakri",
         "categoryLabel": "Chakri",
         "name": "Ground Chakker Special (10pcs)",
@@ -533,7 +541,7 @@
         "category": "chakri",
         "categoryLabel": "Chakri",
         "name": "Deluxe Zamin Chakkar (10pcs)",
-        "price": 350,
+        "price": 330,
         "image": "/images/chakri2.png"
     },
     {
@@ -541,7 +549,7 @@
         "category": "chakri",
         "categoryLabel": "Chakri",
         "name": "Zameen Chakkar Deluxe (10pcs)",
-        "price": 350,
+        "price": 330,
         "image": "/images/chakri3.png"
     },
     {
@@ -565,7 +573,7 @@
         "category": "chakri",
         "categoryLabel": "Chakri",
         "name": "Spinner Special (10pcs)",
-        "price": 350,
+        "price": 300,
         "image": "/images/chakri6.png"
     },
     {
@@ -573,7 +581,7 @@
         "category": "chakri",
         "categoryLabel": "Chakri",
         "name": "Chakkar Big (25pcs)",
-        "price": 225,
+        "price": 220,
         "image": "/images/chakri7.png"
     },
     {
@@ -605,7 +613,7 @@
         "category": "chakri",
         "categoryLabel": "Chakri",
         "name": "Ground Chakkar (10pcs)",
-        "price": 250,
+        "price": 200,
         "image": "/images/chakri11.png"
     },
     {
@@ -620,8 +628,8 @@
         
         "category": "chakri",
         "categoryLabel": "Chakri",
-        "name": "Ground Chakkar Big",
-        "price": 200,
+        "name": "Ground Chakkar Big (25pcs)",
+        "price": 220,
         "image": "/images/chakri13.png"
     },
     {
@@ -709,7 +717,7 @@
         "category": "anar",
         "categoryLabel": "Anar",
         "name": "Big Flower Pots",
-        "price": 169,
+        "price": 150,
         "image": "/images/anar9.png"
     },
     {
@@ -773,7 +781,7 @@
         "category": "anar",
         "categoryLabel": "Anar",
         "name": "Flower Pots Big",
-        "price": 150,
+        "price": 160,
         "image": "/images/anar17.png"
     },
     {
@@ -813,7 +821,7 @@
         "category": "rockets",
         "categoryLabel": "Rockets",
         "name": "Whistling Rocket",
-        "price": 350,
+        "price": 400,
         "image": "/images/rocket2.png"
     },
     {
@@ -821,7 +829,7 @@
         "category": "rockets",
         "categoryLabel": "Rockets",
         "name": "Lunik Express Rocket",
-        "price": 299,
+        "price": 320,
         "image": "/images/rocket3.png"
     },
     {
@@ -829,7 +837,7 @@
         "category": "rockets",
         "categoryLabel": "Rockets",
         "name": "Seeti Maar Rocket",
-        "price": 360,
+        "price": 350,
         "image": "/images/rocket4.png"
     },
     {
@@ -837,7 +845,7 @@
         "category": "rockets",
         "categoryLabel": "Rockets",
         "name": "Rocket Bomb2",
-        "price": 199,
+        "price": 150,
         "image": "/images/rocket5.png"
     },
     {
@@ -869,7 +877,7 @@
         "category": "rockets",
         "categoryLabel": "Rockets",
         "name": "Lunik Express",
-        "price": 300,
+        "price": 350,
         "image": "/images/rocket9.png"
     },
     {
@@ -877,7 +885,7 @@
         "category": "rockets",
         "categoryLabel": "Rockets",
         "name": "2 Sound Rocket",
-        "price": 300,
+        "price": 320,
         "image": "/images/rocket10.png"
     },
     {
@@ -885,7 +893,7 @@
         "category": "rockets",
         "categoryLabel": "Rockets",
         "name": "3 Sound Rocket",
-        "price": 320,
+        "price": 350,
         "image": "/images/rocket11.png"
     },
     {
@@ -914,10 +922,26 @@
     },
     {
         
+        "category": "rockets",
+        "categoryLabel": "Rockets",
+        "name": "Helicopter",
+        "price": 200,
+        "image": "/images/kids10.png"
+    },
+    {
+        
+        "category": "rockets",
+        "categoryLabel": "Rockets",
+        "name": "Sky Scrapper (Helicopter)",
+        "price": 250,
+        "image": "/images/kids1.png"
+    },
+    {
+        
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
-        "name": "Luca Sky Shot (Panta)",
-        "price": 300,
+        "name": "Luca Sky Shot (Penta)",
+        "price": 280,
         "image": "/images/skyshot1.png"
     },
     {
@@ -925,7 +949,7 @@
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
         "name": "Delight 12 Shots",
-        "price": 299,
+        "price": 270,
         "image": "/images/skyshot2.png"
     },
     {
@@ -933,7 +957,7 @@
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
         "name": "Galaxy Crystal 12 Shots",
-        "price": 499,
+        "price": 450,
         "image": "/images/skyshot3.png"
     },
     {
@@ -956,16 +980,8 @@
         
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
-        "name": "100 Pipers Gold Shots",
-        "price": 649,
-        "image": "/images/skyshot6.png"
-    },
-    {
-        
-        "category": "skyShot",
-        "categoryLabel": "Sky Shot",
         "name": "Black Dog White Stars",
-        "price": "600",
+        "price": 600,
         "image": "/images/skyshot7.png"
     },
     {
@@ -973,15 +989,15 @@
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
         "name": "Smirnoff Shots",
-        "price": "599",
+        "price": 599,
         "image": "/images/skyshot8.png"
     },
     {
         
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
-        "name": "Rise Shots (7 shots)",
-        "price": 1399,
+        "name": "Rise Shots (60 shots)",
+        "price": 1299,
         "image": "/images/skyshot9.png"
     },
     {
@@ -996,8 +1012,8 @@
         
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
-        "name": "Fiz Gig Shots (7 shots)",
-        "price": "1399",
+        "name": "Fiz Gig Shots (60 shots)",
+        "price": 1299,
         "image": "/images/skyshot11.png"
     },
     {
@@ -1005,15 +1021,15 @@
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
         "name": "25 Knight Shots",
-        "price": "500",
+        "price": 550,
         "image": "/images/skyshot12.png"
     },
     {
         
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
-        "name": "Black Panther Shots",
-        "price": "650",
+        "name": "Black Panther Shots (3 pipe)",
+        "price": 650,
         "image": "/images/skyshot13.png"
     },
     {
@@ -1021,15 +1037,15 @@
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
         "name": "Mojin 25 Shots",
-        "price": "550",
+        "price": 550,
         "image": "/images/skyshot14.png"
     },
     {
         
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
-        "name": "Space X Shots",
-        "price": "899",
+        "name": "Space X Shots (30 shots)",
+        "price": 899,
         "image": "/images/skyshot15.png"
     },
     {
@@ -1037,7 +1053,7 @@
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
         "name": "Smile (7 shots)",
-        "price": "250",
+        "price": 250,
         "image": "/images/skyshot16.png"
     },
     {
@@ -1045,7 +1061,7 @@
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
         "name": "Bas Jeetna Hai Shots",
-        "price": "230",
+        "price": 230,
         "image": "/images/skyshot17.png"
     },
     {
@@ -1053,7 +1069,7 @@
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
         "name": "12 Star Shots",
-        "price": "300",
+        "price": 300,
         "image": "/images/skyshot18.png"
     },
     {
@@ -1061,7 +1077,7 @@
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
         "name": "Rang Chakkar Shots",
-        "price": "450",
+        "price": 450,
         "image": "/images/skyshot19.png"
     },
     {
@@ -1069,7 +1085,7 @@
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
         "name": "Penta Skymagic Shots",
-        "price": "300",
+        "price": 300,
         "image": "/images/skyshot20.png"
     },
     {
@@ -1077,7 +1093,7 @@
         "category": "kids",
         "categoryLabel": "Kids",
         "name": "Sky Scrapper (Helicopter)",
-        "price": "250",
+        "price": 250,
         "image": "/images/kids1.png"
     },
     {
@@ -1085,7 +1101,7 @@
         "category": "kids",
         "categoryLabel": "Kids",
         "name": "Murga Chaap Bomb",
-        "price": "30",
+        "price": 30,
         "image": "/images/kids2.png"
     },
     {
@@ -1093,7 +1109,7 @@
         "category": "kids",
         "categoryLabel": "Kids",
         "name": "Color Changing Butterfly",
-        "price": "200",
+        "price": 200,
         "image": "/images/kids3.png"
     },
     {
@@ -1101,7 +1117,7 @@
         "category": "kids",
         "categoryLabel": "Kids",
         "name": "Dragon Fight",
-        "price": "100",
+        "price": 90,
         "image": "/images/kids4.png"
     },
     {
@@ -1109,7 +1125,7 @@
         "category": "kids",
         "categoryLabel": "Kids",
         "name": "Magic Pop Pop",
-        "price": "10",
+        "price": 10,
         "image": "/images/kids5.png"
     },
     {
@@ -1117,7 +1133,7 @@
         "category": "kids",
         "categoryLabel": "Kids",
         "name": "Bidi Bomb",
-        "price": "220",
+        "price": 180,
         "image": "/images/kids6.png"
     },
     {
@@ -1133,7 +1149,7 @@
         "category": "kids",
         "categoryLabel": "Kids",
         "name": "Jil Jil Hunter",
-        "price": 59,
+        "price": 95,
         "image": "/images/fuljhari4.png"
     },
     {
@@ -1149,7 +1165,7 @@
         "category": "kids",
         "categoryLabel": "Kids",
         "name": "Mini Bullet Bomb",
-        "price": 70,
+        "price": 65,
         "image": "/images/bomb17.png"
     },
     {
@@ -1157,7 +1173,7 @@
         "category": "kids",
         "categoryLabel": "Kids",
         "name": "Chakkar Big (25pcs)",
-        "price": 225,
+        "price": 220,
         "image": "/images/chakri7.png"
     },
     {
@@ -1191,5 +1207,21 @@
         "name": "Ring Caps",
         "price": 15,
         "image": "/images/kids9.png"
+    },
+    {
+        
+        "category": "kids",
+        "categoryLabel": "Kids",
+        "name": "Helicopter",
+        "price": 200,
+        "image": "/images/kids10.png"
+    },
+    {
+        
+        "category": "kids",
+        "categoryLabel": "Kids",
+        "name": "Mercury Light",
+        "price": 120,
+        "image": "/images/kids11.png"
     }
 ]
