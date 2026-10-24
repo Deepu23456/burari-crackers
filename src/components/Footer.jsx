@@ -29,6 +29,9 @@ function Footer() {
               <a href="tel:+919871641179" className="hover:text-yellow-400 transition-colors">
                 +91 98716 41179
               </a>
+              <a href="tel:+918796586168" className="hover:text-yellow-400 transition-colors">
+                +91 87965 86168
+              </a>
             </li>
             <li className="flex items-center gap-3">
               <span>✉️</span>
@@ -38,7 +41,7 @@ function Footer() {
             </li>
             <li className="flex items-center gap-3">
               <span>🕒</span>
-              <span>Mon – Sun: 9 AM – 7 PM</span>
+              <span>Mon – Sun: 10 AM – 8 PM</span>
             </li>
           </ul>
         </div>

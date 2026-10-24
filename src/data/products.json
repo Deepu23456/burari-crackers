@@ -4,7 +4,7 @@
         "category": "fuljhari",
         "categoryLabel": "Fuljhari",
         "name": "Coloured Sparklers (18 no.)",
-        "price": 100,
+        "price": 95,
         "image": "/images/fuljhari1.png"
     },
     {
@@ -12,7 +12,7 @@
         "category": "fuljhari",
         "categoryLabel": "Fuljhari",
         "name": "Coloured Sparklers (35 no.)",
-        "price": 100,
+        "price": 95,
         "image": "/images/fuljhari2.png"
     },
     {
@@ -36,7 +36,7 @@
         "category": "fuljhari",
         "categoryLabel": "Fuljhari",
         "name": "Green Sparklers (18 no.)",
-        "price": 100,
+        "price": 95,
         "image": "/images/fuljhari5.png"
     },
     {
@@ -44,7 +44,7 @@
         "category": "fuljhari",
         "categoryLabel": "Fuljhari",
         "name": "Red Sparklers (18 no.)",
-        "price": 100,
+        "price": 95,
         "image": "/images/fuljhari5.png"
     },
     {
@@ -277,7 +277,7 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "Parmanu Bomb",
-        "price": 180,
+        "price": 160,
         "image": "/images/bomb15.png"
     },
     {
@@ -381,7 +381,7 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "Excel Cell Bomb",
-        "price": 250,
+        "price": 280,
         "image": "/images/bomb28.png"
     },
     {
@@ -477,7 +477,7 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "Choice Hydro Foil Bomb",
-        "price": 150,
+        "price": 160,
         "image": "/images/bomb40.png"
     },
     {
@@ -485,7 +485,7 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "Excel Big Bullet",
-        "price": 120,
+        "price": 100,
         "image": "/images/bomb41.png"
     },
     {
@@ -525,8 +525,8 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "DLX Bullet",
-        "price": 180,
-        "image": "/images/bomb46.png"
+        "price": 160,
+        "image": "/images/bomb46.jpg"
     },
     {
         
@@ -557,7 +557,7 @@
         "category": "chakri",
         "categoryLabel": "Chakri",
         "name": "Big Chakkar (10pcs)",
-        "price": 99,
+        "price": 90,
         "image": "/images/chakri4.png"
     },
     {
