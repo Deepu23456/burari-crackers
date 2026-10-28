@@ -530,6 +530,14 @@
     },
     {
         
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "10K Bomb (10000 ladi)",
+        "price": 5000,
+        "image": "/images/bomb47.png"
+    },
+    {
+        
         "category": "chakri",
         "categoryLabel": "Chakri",
         "name": "Ground Chakker Special (10pcs)",
@@ -637,7 +645,7 @@
         "category": "chakri",
         "categoryLabel": "Chakri",
         "name": "Musical Wheel (10pcs)",
-        "price": 220,
+        "price": 250,
         "image": "/images/chakri14.png"
     },
     {
@@ -781,7 +789,7 @@
         "category": "anar",
         "categoryLabel": "Anar",
         "name": "Flower Pots Big",
-        "price": 160,
+        "price": 170,
         "image": "/images/anar17.png"
     },
     {
@@ -789,7 +797,7 @@
         "category": "anar",
         "categoryLabel": "Anar",
         "name": "Flower Pots Deluxe",
-        "price": 300,
+        "price": 350,
         "image": "/images/anar18.png"
     },
     {
@@ -797,7 +805,7 @@
         "category": "anar",
         "categoryLabel": "Anar",
         "name": "Peacock Feather",
-        "price": 400,
+        "price": 450,
         "image": "/images/anar19.png"
     },
     {
@@ -805,7 +813,7 @@
         "category": "anar",
         "categoryLabel": "Anar",
         "name": "Bada Peacock",
-        "price": 800,
+        "price": 850,
         "image": "/images/anar20.png"
     },
     {
