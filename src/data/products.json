@@ -1068,14 +1068,6 @@
         
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
-        "name": "Lattu Sky Shot",
-        "price": 549,
-        "image": "/images/skyshot4.png"
-    },
-    {
-        
-        "category": "skyShot",
-        "categoryLabel": "Sky Shot",
         "name": "Multicolor 30 Shots",
         "price": 999,
         "image": "/images/skyshot5.png"
