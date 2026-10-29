@@ -161,6 +161,14 @@
     },
     {
         
+        "category": "fuljhari",
+        "categoryLabel": "Fuljhari",
+        "name": "Twinkling Star Hunter",
+        "price": 100,
+        "image": "/images/fuljhari21.jpg"
+    },
+    {
+        
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "SpiderMan Crackers",
@@ -533,8 +541,88 @@
         "category": "bombs",
         "categoryLabel": "Bombs",
         "name": "10K Bomb (10000 ladi)",
-        "price": 5000,
+        "price": 4600,
         "image": "/images/bomb47.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Mercury Light",
+        "price": 120,
+        "image": "/images/kids11.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Ganga Jamuna Flower Pots",
+        "price": 149,
+        "image": "/images/anar10.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Wonder Throw",
+        "price": 90,
+        "image": "/images/kids7.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Missile",
+        "price": 150,
+        "image": "/images/kids8.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Ring Caps",
+        "price": 15,
+        "image": "/images/kids9.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Murga Chaap Bomb",
+        "price": 30,
+        "image": "/images/kids2.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Color Changing Butterfly",
+        "price": 200,
+        "image": "/images/kids3.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Dragon Fight",
+        "price": 90,
+        "image": "/images/kids4.png"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Magic Pop Pop (50pcs)",
+        "price": 400,
+        "image": "/images/kids5.jpg"
+    },
+    {
+        
+        "category": "bombs",
+        "categoryLabel": "Bombs",
+        "name": "Bidi Bomb",
+        "price": 180,
+        "image": "/images/kids6.jpg"
     },
     {
         
@@ -655,6 +743,14 @@
         "name": "Dollar Wheel (5pcs)",
         "price": 280,
         "image": "/images/chakri15.png"
+    },
+    {
+        
+        "category": "chakri",
+        "categoryLabel": "Chakri",
+        "name": "Chakkar Special (10pcs)",
+        "price": 280,
+        "image": "/images/chakri16.jpg"
     },
     {
         
@@ -1021,7 +1117,7 @@
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
         "name": "Fiz Gig Shots (60 shots)",
-        "price": 1299,
+        "price": 1399,
         "image": "/images/skyshot11.png"
     },
     {
@@ -1095,6 +1191,14 @@
         "name": "Penta Skymagic Shots",
         "price": 300,
         "image": "/images/skyshot20.png"
+    },
+    {
+        
+        "category": "skyShot",
+        "categoryLabel": "Sky Shot",
+        "name": "Falcon 60 Shots",
+        "price": 1349,
+        "image": "/images/skyshot21.jpg"
     },
     {
         
@@ -1221,7 +1325,7 @@
         "category": "kids",
         "categoryLabel": "Kids",
         "name": "Helicopter",
-        "price": 200,
+        "price": 220,
         "image": "/images/kids10.png"
     },
     {
