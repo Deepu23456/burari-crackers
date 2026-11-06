@@ -29,6 +29,7 @@
         "categoryLabel": "Fuljhari",
         "name": "Jil Jil Hunter",
         "price": 85,
+        "inStock": false,
         "image": "/images/fuljhari4.png"
     },
     {
@@ -173,6 +174,7 @@
         "categoryLabel": "Bombs",
         "name": "SpiderMan Crackers",
         "price": 45,
+        "inStock": false,
         "image": "/images/bomb1.png"
     },
     {
@@ -189,6 +191,7 @@
         "categoryLabel": "Bombs",
         "name": "Hulk Stripped Cracker (Bijli 100pcs)",
         "price": 80,
+        "inStock": false,
         "image": "/images/bomb3.png"
     },
     {
@@ -205,6 +208,7 @@
         "categoryLabel": "Bombs",
         "name": "2 sound bomb",
         "price": 50,
+        "inStock": false,
         "image": "/images/bomb5.png"
     },
     {
@@ -262,6 +266,7 @@
         "categoryLabel": "Bombs",
         "name": "Bomb 6no.",
         "price": 600,
+        "inStock": false,
         "image": "/images/bomb12.png"
     },
     {
@@ -270,6 +275,7 @@
         "categoryLabel": "Bombs",
         "name": "Koyal Bomb",
         "price": 40,
+        "inStock": false,
         "image": "/images/bomb13.png"
     },
     {
@@ -598,6 +604,7 @@
         "categoryLabel": "Bombs",
         "name": "Color Changing Butterfly",
         "price": 180,
+        "inStock": false,
         "image": "/images/kids3.png"
     },
     {
@@ -838,6 +845,7 @@
         "categoryLabel": "Anar",
         "name": "Flower Pots Ashoka",
         "price": 240,
+        "inStock": false,
         "image": "/images/anar11.png"
     },
     {
@@ -870,6 +878,7 @@
         "categoryLabel": "Anar",
         "name": "Super Giant Flower Pots",
         "price": 250,
+        "inStock": false,
         "image": "/images/anar15.png"
     },
     {
@@ -942,6 +951,7 @@
         "categoryLabel": "Rockets",
         "name": "Seeti Maar Rocket",
         "price": 330,
+        "inStock": false,
         "image": "/images/rocket4.png"
     },
     {
@@ -950,6 +960,7 @@
         "categoryLabel": "Rockets",
         "name": "Rocket Bomb2",
         "price": 140,
+        "inStock": false,
         "image": "/images/rocket5.png"
     },
     {
@@ -1006,6 +1017,7 @@
         "categoryLabel": "Rockets",
         "name": "Rocket Whistling",
         "price": 370,
+        "inStock": false,
         "image": "/images/rocket12.png"
     },
     {
@@ -1022,6 +1034,7 @@
         "categoryLabel": "Rockets",
         "name": "Rocket Bomb",
         "price": 160,
+        "inStock": false,
         "image": "/images/rocket14.png"
     },
     {
@@ -1030,6 +1043,7 @@
         "categoryLabel": "Rockets",
         "name": "Helicopter",
         "price": 200,
+        "inStock": false,
         "image": "/images/kids10.png"
     },
     {
@@ -1038,6 +1052,7 @@
         "categoryLabel": "Rockets",
         "name": "Sky Scrapper (Helicopter)",
         "price": 230,
+        "inStock": false,
         "image": "/images/kids1.png"
     },
     {
@@ -1054,6 +1069,7 @@
         "categoryLabel": "Sky Shot",
         "name": "Delight 12 Shots",
         "price": 260,
+        "inStock": false,
         "image": "/images/skyshot2.png"
     },
     {
@@ -1078,6 +1094,7 @@
         "categoryLabel": "Sky Shot",
         "name": "Black Dog White Stars",
         "price": 530,
+        "inStock": false,
         "image": "/images/skyshot7.png"
     },
     {
@@ -1086,6 +1103,7 @@
         "categoryLabel": "Sky Shot",
         "name": "Smirnoff Shots",
         "price": 530,
+        "inStock": false,
         "image": "/images/skyshot8.png"
     },
     {
@@ -1126,6 +1144,7 @@
         "categoryLabel": "Sky Shot",
         "name": "Black Panther Shots (3 pipe)",
         "price": 580,
+        "inStock": false,
         "image": "/images/skyshot13.png"
     },
     {
@@ -1158,14 +1177,16 @@
         "categoryLabel": "Sky Shot",
         "name": "Bas Jeetna Hai Shots",
         "price": 220,
+        "inStock": false,
         "image": "/images/skyshot17.png"
     },
     {
         
         "category": "skyShot",
         "categoryLabel": "Sky Shot",
-        "name": "12 Star Shots",
+        "name": "Pushpa 12 Star Shots",
         "price": 290,
+        "inStock": false,
         "image": "/images/skyshot18.png"
     },
     {
@@ -1198,6 +1219,7 @@
         "categoryLabel": "Kids",
         "name": "Sky Scrapper (Helicopter)",
         "price": 230,
+        "inStock": false,
         "image": "/images/kids1.png"
     },
     {
@@ -1214,6 +1236,7 @@
         "categoryLabel": "Kids",
         "name": "Color Changing Butterfly",
         "price": 180,
+        "inStock": false,
         "image": "/images/kids3.png"
     },
     {
@@ -1254,6 +1277,7 @@
         "categoryLabel": "Kids",
         "name": "Jil Jil Hunter",
         "price": 85,
+        "inStock": false,
         "image": "/images/fuljhari4.png"
     },
     {
@@ -1318,6 +1342,7 @@
         "categoryLabel": "Kids",
         "name": "Helicopter",
         "price": 200,
+        "inStock": false,
         "image": "/images/kids10.png"
     },
     {
